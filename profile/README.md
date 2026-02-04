@@ -1,5 +1,3 @@
-All repo's in this organization are mostly related to the latest Godot C# build.
-
 No longer maintained but may be revisted in the future.
 - https://github.com/Valks-Games/sankari
 - https://github.com/CSharpGodotTools/FPS/tree/main/Genres/3D%20FPS
